@@ -6,6 +6,5 @@ One of the reasons that the shipwreck led to such loss of life was that there we
 The data is freely available on kaggle.com
 
 Goal
-
-It is your job to predict if a passenger survived the sinking of the Titanic or not.
+Our job is  to predict if a passenger survived the sinking of the Titanic or not.
 For each PassengerId in the test set, you must predict a 0 or 1 value for the Survived variable.
